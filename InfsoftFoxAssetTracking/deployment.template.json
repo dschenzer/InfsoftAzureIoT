@@ -12,7 +12,7 @@
             "registryCredentials": {
               "foxacr": {
                 "username": "foxacr",
-                "password": "",
+                "password": "DxQikdcsgcBa6mUnT4cf5hXhOpuh/DWr",
                 "address": "foxacr.azurecr.io"
               }
             }
@@ -74,7 +74,7 @@
             "restartPolicy": "always",
             "env": {
               "apikey": {
-                "value": ""
+                "value": "9f1d3bb3-9e34-4b5b-bf95-77ebb9b1c6f9"
               },
               "locationid": {
                 "value": "102045"
